@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">myTable1</string>
+    <string name="scrollView1">first</string>
+    <string name="hscrll1"></string>
+    <string name="RelativeLayout1"></string>
+    <string name="table_main"></string>
+
+</resources>
